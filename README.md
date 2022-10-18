@@ -1,1 +1,1 @@
-# game-tcc-semifinal
+# tcc-game
