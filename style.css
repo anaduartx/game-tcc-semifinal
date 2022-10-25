@@ -53,7 +53,10 @@
     backface-visibility: hidden;
     display: flex;
     align-items: center;
+  
   }
+
+
   
   .front-face {
     transform: rotateY(180deg);
